@@ -2,7 +2,7 @@
 
 <!--
 **makubex64/makubex64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![](https://github.com/makubex64/makubex64/blob/main/javascript.gif)
+![js gif](https://github.com/makubex64/makubex64/blob/main/javascript.gif)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
